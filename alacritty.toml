@@ -5,8 +5,8 @@ decorations = "Full"
 opacity = 0.95
 
 [font]
-size = 13
-normal = { family = "Hack", style = "Regular" }
+size = 12
+normal = { family = "Hack Nerd Font Mono", style = "Regular" }
 
 
 # Colors - One Dark Pro
